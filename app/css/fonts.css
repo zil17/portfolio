@@ -1,0 +1,47 @@
+/* font-family: "HelveticaRegular"; */
+
+@font-face {
+    font-family: "HelveticaRegular";
+    src: url("../fonts/Helvetica/HelveticaRegular/HelveticaRegular.eot");
+    src: url("../fonts/Helvetica/HelveticaRegular/HelveticaRegular.eot?#iefix")format("embedded-opentype"), 
+    url("../fonts/Helvetica/HelveticaRegular/HelveticaRegular.woff") format("woff"), 
+    url("../fonts/Helvetica/HelveticaRegular/HelveticaRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "HelveticaMedium"; */
+
+@font-face {
+    font-family: "HelveticaMedium";
+    src: url("../fonts/Helvetica/HelveticaMedium/HelveticaMedium.eot");
+    src: url("../fonts/Helvetica/HelveticaMedium/HelveticaMedium.eot?#iefix")format("embedded-opentype"), 
+    url("../fonts/Helvetica/HelveticaMedium/HelveticaMedium.woff") format("woff"), 
+    url("../fonts/Helvetica/HelveticaMedium/HelveticaMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "HelveticaBold"; */
+
+@font-face {
+    font-family: "HelveticaBold";
+    src: url("../fonts/Helvetica/HelveticaBold/HelveticaBold.eot");
+    src: url("../fonts/Helvetica/HelveticaBold/HelveticaBold.eot?#iefix")format("embedded-opentype"), 
+    url("../fonts/Helvetica/HelveticaBold/HelveticaBold.woff") format("woff"), 
+    url("../fonts/Helvetica/HelveticaBold/HelveticaBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "BallparkWeiner"; */
+
+@font-face {
+    font-family: "BallparkWeiner";
+    src: url("../fonts/BallparkWeiner/BallparkWeiner.eot");
+    src: url("../fonts/BallparkWeiner/BallparkWeiner.eot?#iefix")format("embedded-opentype"), 
+    url("../fonts/BallparkWeiner/BallparkWeiner.woff") format("woff"), 
+    url("../fonts/BallparkWeiner/BallparkWeiner.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
