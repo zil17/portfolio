@@ -15,6 +15,9 @@ No media query for `xs` since this is the default in Bootstrap */
     .middle-white-item {
         margin-top: -52px;
     }
+    .middle-white-item-next {
+        margin-top: 0;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
