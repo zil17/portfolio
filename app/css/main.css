@@ -198,6 +198,10 @@ header {
     padding-right: 0;
 }
 
+.middle-white-item-next p {
+    padding-right: 32px;
+}
+
 .middle-white-item-next h4 {
     font-family: "HelveticaBold", sans-serif;
     margin-bottom: 33px;
