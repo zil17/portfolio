@@ -142,7 +142,7 @@ header {
 
 .middle-white-item {
     background: #fff;
-    padding: 24px 32px 0 26px;
+    padding: 0 32px 0 26px;
     font-size: 13px;
     line-height: 17px;
     position: relative;
@@ -169,6 +169,7 @@ header {
     font-size: 16px;
     color: #171717;
     margin-bottom: 26px;
+    padding-top: 24px;
 }
 
 .grey {
@@ -178,7 +179,7 @@ header {
 .read-more {
     background: url(../img/divider.png) repeat-x 0 0;
     padding-top: 17px;
-    padding-bottom: 49px;
+    padding-bottom: 56px;
     margin-top: 34px;
 }
 
@@ -194,18 +195,19 @@ header {
 }
 
 .middle-white-item-next {
-    padding-top: 32px;
+    padding-right: 0;
 }
 
 .middle-white-item-next h4 {
     font-family: "HelveticaBold", sans-serif;
-    margin-bottom: 0;
+    margin-bottom: 33px;
     padding-bottom: 18px;
     background: url(../img/divider.png) repeat-x 0 100%;
+    width: 100%;
 }
 
 .img-middle-block {
-    padding-top: 32px;
+    padding-bottom: 20px;
 }
 
 .img-middle-block img {
