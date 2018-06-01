@@ -137,7 +137,6 @@ header {
 }
 
 .middle-white-block {
-    background: #fff;
     color: #333;
 }
 
@@ -146,6 +145,7 @@ header {
     padding: 24px 32px 0 26px;
     font-size: 13px;
     line-height: 17px;
+    position: relative;
 }
 
 .middle-white-item-first {
@@ -156,6 +156,12 @@ header {
     background: url(../img/middle-block-shadow-left.png) no-repeat 0 0, 
                 url(../img/middle-block-shadow-right.png) no-repeat 100% 0;
     padding: 0 6px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: -6px;
+    width: calc(100% + 12px);
+    z-index: -10;
 }
 
 .middle-white-item h4 {
@@ -188,7 +194,6 @@ header {
 }
 
 .middle-white-item-next {
-    padding-left: 32px;
     padding-top: 32px;
 }
 
