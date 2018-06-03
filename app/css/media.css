@@ -18,10 +18,27 @@ No media query for `xs` since this is the default in Bootstrap */
     .middle-white-item-next {
         margin-top: 0;
     }
+    .info ul {
+        left: 0;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+    .info li {
+        margin-right: 15px;
+    }
+    .footer-contacts {
+        margin-left: -8px;
+    }
+    .footer-copyright {
+        margin-left: -15px;
+    }
+}
 
 /* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+    .info li {
+        margin-right: 35px;
+    }
+}

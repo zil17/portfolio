@@ -142,6 +142,7 @@ header {
 
 .middle-white-block {
     color: #333;
+    padding-bottom: 49px;
 }
 
 .middle-white-item-first {
@@ -215,7 +216,6 @@ header {
 }
 
 .img-middle-block {
-    margin-bottom: 20px;
     position: relative;
 }
 
@@ -246,6 +246,7 @@ header {
     display: inline-block;
     margin-right: 35px;
     color: #ffffff;
+    font-family: "HelveticaMedium", sans-serif;
 }
 
 .info li:last-child {
@@ -256,4 +257,71 @@ header {
     position: absolute;
     margin-bottom: 0;
     bottom: 18px;
+    left: 20%;
+}
+
+.img-separate {
+    height: 20px;
+}
+
+.top-footer {
+    background: url(../img/bg-top-block.png) repeat 0 0;
+    border-top: 4px solid #242424;
+    padding-top: 40px;
+    padding-bottom: 18px;
+}
+
+.footer-title {
+    font-family: "HelveticaBold", sans-serif;
+    font-size: 16px;
+    padding-bottom: 21px;
+    text-transform: capitalize;
+    background: url(../img/footer-title-line.gif) repeat-x 0 100%;
+}
+
+.top-footer-p {
+    padding-top: 25px;
+}
+
+.top-footer-p p {
+    margin-bottom: 18px;
+}
+
+.dark-grey {
+    color: #999999;
+}
+
+p.dark-grey {
+    margin-top: -8px;  
+    margin-bottom: 28px;
+}
+
+.widget-block {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.bottom-footer {
+    padding: 20px 0;
+    background: url(../img/bg-footer-block.png) repeat 0 0;
+}
+
+.bottom-footer .logo {
+    font-size: 34px;
+    color: #808080;
+}
+
+.light-grey {
+    color: #b2b2b2;
+}
+
+.bottom-footer a {
+    color: #818181;
+}
+
+.bottom-footer p {
+    color: #818181;
+    margin: 0;
+    line-height: 2.0;
 }
