@@ -21,6 +21,9 @@ No media query for `xs` since this is the default in Bootstrap */
     .info ul {
         left: 0;
     }
+    .top-mnu ul {
+        display: block;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */

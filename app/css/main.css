@@ -85,7 +85,7 @@ header {
 }
 
 .search input[type="text"] {
-    width: 90%;
+    width: 100%;
     border: none;
     background: transparent;
     outline: none;
